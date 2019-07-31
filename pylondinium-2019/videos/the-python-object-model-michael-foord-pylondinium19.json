@@ -1,0 +1,23 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "",
+  "duration": 1561,
+  "language": "eng",
+  "recorded": "2019-06-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pylondinium.org/schedule.html"
+    }
+  ],
+  "speakers": [],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/qqW4QYTeD40/maxresdefault.jpg",
+  "title": "The Python object model - Michael Foord - PyLondinium19",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=qqW4QYTeD40"
+    }
+  ]
+}

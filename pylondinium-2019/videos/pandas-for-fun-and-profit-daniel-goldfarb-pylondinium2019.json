@@ -1,0 +1,23 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "",
+  "duration": 1662,
+  "language": "eng",
+  "recorded": "2019-06-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pylondinium.org/schedule.html"
+    }
+  ],
+  "speakers": [],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/HWF5iFP3DfE/maxresdefault.jpg",
+  "title": "Pandas for Fun and Profit - Daniel Goldfarb - PyLondinium2019",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=HWF5iFP3DfE"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "",
+  "duration": 2777,
+  "language": "eng",
+  "recorded": "2019-06-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pylondinium.org/schedule.html"
+    }
+  ],
+  "speakers": [],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/e7RVO0Sqr4s/maxresdefault.jpg",
+  "title": "Keynote: Typesetting with Python - Brandon Rhodes - PyLondinium19",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=e7RVO0Sqr4s"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "copyright_text": "Creative Commons Attribution license (reuse allowed)",
+  "description": "",
+  "duration": 1450,
+  "language": "eng",
+  "recorded": "2019-06-14",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://pylondinium.org/schedule.html"
+    }
+  ],
+  "speakers": [],
+  "tags": [],
+  "thumbnail_url": "https://i.ytimg.com/vi/t3gCK9QqXWU/maxresdefault.jpg",
+  "title": "An introduction to ASGI, Asynchronous Server Gateway Interface - Philip Jones - PyLondinium19",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=t3gCK9QqXWU"
+    }
+  ]
+}
