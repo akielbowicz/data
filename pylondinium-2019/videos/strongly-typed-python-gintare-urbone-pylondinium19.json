@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Gintare Urbone"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/50IG91sbYJo/maxresdefault.jpg",
-  "title": "Strongly typed python - Gintare Urbone - PyLondinium19",
+  "title": "Strongly typed python",
   "videos": [
     {
       "type": "youtube",

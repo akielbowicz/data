@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Juan Luis Cano"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/Hip4AWsxO_g/maxresdefault.jpg",
-  "title": "Is it a bird? Is it a plane? Accelerating Python with numba - Juan Luis Cano - PyLondinium19",
+  "title": "Is it a bird? Is it a plane? Accelerating Python with Numba",
   "videos": [
     {
       "type": "youtube",

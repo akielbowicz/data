@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Daniel Goldfarb"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/HWF5iFP3DfE/maxresdefault.jpg",
-  "title": "Pandas for Fun and Profit - Daniel Goldfarb - PyLondinium2019",
+  "title": "Pandas for Fun and Profit",
   "videos": [
     {
       "type": "youtube",

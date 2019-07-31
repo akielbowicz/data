@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Daniel Moisset"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/F_eze90XXbc/maxresdefault.jpg",
-  "title": "Inside the Kitchen - Daniel Moisset - PyLondinium19",
+  "title": "Inside the Kitchen",
   "videos": [
     {
       "type": "youtube",

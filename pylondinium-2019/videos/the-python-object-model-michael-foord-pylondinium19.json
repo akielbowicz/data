@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Michael Foord"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/qqW4QYTeD40/maxresdefault.jpg",
-  "title": "The Python object model - Michael Foord - PyLondinium19",
+  "title": "The Python object model",
   "videos": [
     {
       "type": "youtube",

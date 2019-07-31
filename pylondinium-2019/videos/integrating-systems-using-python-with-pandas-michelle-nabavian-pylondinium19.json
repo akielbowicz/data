@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Michelle Nabavian"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/2WEfmILo3Cs/maxresdefault.jpg",
-  "title": "Integrating Systems Using Python with pandas - Michelle Nabavian - PyLondinium19",
+  "title": "Integrating Systems Using Python with pandas",
   "videos": [
     {
       "type": "youtube",

@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Gisela Rossi"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/2KYoK_ShEME/maxresdefault.jpg",
-  "title": "Dictionaries, behind the scenes - Gisela Rossi - PyLondinium19",
+  "title": "Dictionaries, behind the scenes",
   "videos": [
     {
       "type": "youtube",

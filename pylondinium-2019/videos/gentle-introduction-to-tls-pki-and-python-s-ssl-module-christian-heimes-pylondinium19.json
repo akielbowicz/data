@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Christian Heimes"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/_YjX7rtiAsk/maxresdefault.jpg",
-  "title": "Gentle introduction to TLS, PKI, and Python's ssl module - Christian Heimes - PyLondinium19",
+  "title": "Gentle introduction to TLS, PKI, and Python's ssl module",
   "videos": [
     {
       "type": "youtube",

@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Paul Ganssle"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/IqQDl_2BsNs/maxresdefault.jpg",
-  "title": "Build your Python Extensions with Rust! - Paul Ganssle - PyLondinium19",
+  "title": "Build your Python Extensions with Rust!",
   "videos": [
     {
       "type": "youtube",

@@ -10,10 +10,14 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": [
+    "Sylvain Corlay"
+  ],
+  "tags": [
+    "keynote"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/kCp_y-ctYtc/maxresdefault.jpg",
-  "title": "Keynote: Jupyter Notebooks - Sylvain Corlay - PyLondinium19",
+  "title": "Jupyter Notebooks",
   "videos": [
     {
       "type": "youtube",

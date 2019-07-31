@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Philip Jones"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/t3gCK9QqXWU/maxresdefault.jpg",
-  "title": "An introduction to ASGI, Asynchronous Server Gateway Interface - Philip Jones - PyLondinium19",
+  "title": "An introduction to ASGI, Asynchronous Server Gateway Interface",
   "videos": [
     {
       "type": "youtube",

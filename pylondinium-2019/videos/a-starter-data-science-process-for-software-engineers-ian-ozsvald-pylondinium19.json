@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Ian Ozsvald"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/DYago3iX8K0/maxresdefault.jpg",
-  "title": "A starter data science process for software engineers - Ian Ozsvald - PyLondinium19",
+  "title": "A starter data science process for software engineers",
   "videos": [
     {
       "type": "youtube",

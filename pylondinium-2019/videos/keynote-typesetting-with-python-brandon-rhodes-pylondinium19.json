@@ -10,10 +10,14 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": [
+    "Brandon Rhodes"
+  ],
+  "tags": [
+    "keynote"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/e7RVO0Sqr4s/maxresdefault.jpg",
-  "title": "Keynote: Typesetting with Python - Brandon Rhodes - PyLondinium19",
+  "title": "Typesetting with Python",
   "videos": [
     {
       "type": "youtube",

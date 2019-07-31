@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Marco Bonzanini"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/Gr6GSDnzPtY/maxresdefault.jpg",
-  "title": "Lies, Damned Lies, and Statistics - Marco Bonzanini - PyLondinium19",
+  "title": "Lies, Damned Lies, and Statistics",
   "videos": [
     {
       "type": "youtube",

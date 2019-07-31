@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Leonardo Giordani"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/wtCQalq7L-E/maxresdefault.jpg",
-  "title": "Clean Architectures in Python - Leonardo Giordani - PyLondinium19",
+  "title": "Clean Architectures in Python",
   "videos": [
     {
       "type": "youtube",

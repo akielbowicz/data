@@ -10,10 +10,14 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
-  "tags": [],
+  "speakers": [
+    "\u0141ukasz Langa "
+  ],
+  "tags": [
+    "keynote"
+  ],
   "thumbnail_url": "https://i.ytimg.com/vi/KDXhu4rxTNY/maxresdefault.jpg",
-  "title": "Keynote: Python 2020 - \u0141ukasz Langa - PyLondinium19",
+  "title": "Python 2020",
   "videos": [
     {
       "type": "youtube",

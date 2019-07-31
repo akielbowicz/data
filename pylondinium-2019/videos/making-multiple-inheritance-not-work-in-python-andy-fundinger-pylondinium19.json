@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Andy Fundinger"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/kzLe3yZ0YEc/maxresdefault.jpg",
-  "title": "Making Multiple Inheritance not work in Python - Andy Fundinger - PyLondinium19",
+  "title": "Making Multiple Inheritance not work in Python",
   "videos": [
     {
       "type": "youtube",

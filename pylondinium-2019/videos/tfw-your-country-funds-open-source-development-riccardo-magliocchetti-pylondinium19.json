@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Riccardo Magliocchetti"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/SYoa44D5oU4/maxresdefault.jpg",
-  "title": "TFW your country funds Open Source development - Riccardo Magliocchetti - PyLondinium19",
+  "title": "TFW your country funds Open Source development",
   "videos": [
     {
       "type": "youtube",

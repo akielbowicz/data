@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Daniele Procida"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/A9JN0P4y1Lg/maxresdefault.jpg",
-  "title": "Nothingness and identity in Python - Daniele Procida - PyLondinium19",
+  "title": "Nothingness and identity in Python",
   "videos": [
     {
       "type": "youtube",

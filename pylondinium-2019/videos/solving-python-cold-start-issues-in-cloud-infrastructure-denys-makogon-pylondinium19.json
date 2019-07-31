@@ -10,10 +10,12 @@
       "url": "https://pylondinium.org/schedule.html"
     }
   ],
-  "speakers": [],
+  "speakers": [
+    "Denys Makogon"
+  ],
   "tags": [],
   "thumbnail_url": "https://i.ytimg.com/vi/lxYVJa5esbk/maxresdefault.jpg",
-  "title": "Solving Python cold start issues in cloud infrastructure - Denys Makogon - PyLondinium19",
+  "title": "Solving Python cold start issues in cloud infrastructure",
   "videos": [
     {
       "type": "youtube",
